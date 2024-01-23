@@ -1,0 +1,19 @@
+.anabaslik{
+    padding: 1.5rem;
+    background-color: purple;
+    text-align: center;
+}
+h1,h2,h3{
+color: red;
+}
+span{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+p{
+    font-size: 1.5rem;
+}
+hr{
+    border: 1px;
+}
